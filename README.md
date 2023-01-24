@@ -7,8 +7,8 @@
 
 <p align="center">
 	<a href="https://github.com/BinaryBrainiacs/BinaryBrainiacs/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a>
-	<a href="https://github.com/catppuccin/xed/stargazers"><img src="https://img.shields.io/github/stars/BinaryBrainiacs/yarsi?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/xed/issues"><img src="https://img.shields.io/github/issues/BinaryBrainiacs/yarsi?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/BinaryBrainiacs/yarsi/stargazers"><img src="https://img.shields.io/github/stars/BinaryBrainiacs/yarsi?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/BinaryBrainiacs/yarsi/issues"><img src="https://img.shields.io/github/issues/BinaryBrainiacs/yarsi?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
 </p>
 
 
